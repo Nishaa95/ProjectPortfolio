@@ -22,7 +22,7 @@ datasets based on neighborhood names.
 <li>Our target variable was skewed ,so we chose Transformed Target regressor and compared accuraacies of all 6 models with transformed Target Regressor using same metric R2.
 <li> based on accuraccies we chose XGBoost with Transformed Target Regressor, a gradient boosting algorithm that combines multiple weak predictive models to form a stronger one. 
  
-# [Data Visualization](3960Dashboard_Group2.pbix)
+# [Data Visualization](CrimeAnalysis_Dashboard.pdf)
  
 Power BI is a powerful business intelligence tool that allows you to visualize and analyze data in a user-friendly way. In this project, Power BI was used to visualize crime data, understanding patterns, results of clustering, predictive analysis and gain insights into criminal activities.In this project, several visualizations were created to analyze the crime data.The visualizations created are easy to understand and  can provide actionable insights for law enforcement agencies. 
 
